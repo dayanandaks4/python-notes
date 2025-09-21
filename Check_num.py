@@ -1,4 +1,4 @@
-# Take a Number and check if it is positive, negative, or zero.
+# Take a Number and check if it is Positive, Negative, or Zero.
 
 def check_num(num1):
     if num1 > 0:
